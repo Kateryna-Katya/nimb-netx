@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/velaro-tix/",
+    "build": "vite build --base=/nimb-netx.org/",
     "preview": "vite preview"
   },
   "devDependencies": {
