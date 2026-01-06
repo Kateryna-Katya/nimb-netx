@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/nimb-netx.org/",
+    "build": "vite build --base=/nimb-netx/",
     "preview": "vite preview"
   },
   "devDependencies": {
